@@ -29,7 +29,7 @@
           font-family="Roboto"
           line-height="30px"
         >
-          Join Code & Beer
+          Join Code && Beer
         </mj-text>
         <mj-text
           color="#F39C33"
@@ -39,7 +39,7 @@
           font-family="Roboto"
           line-height="30px"
         >
-          Monday March 15th 7:00PM
+          Monday March 15th 4:30PM
         </mj-text>
       </mj-column>
     </mj-section>
@@ -55,7 +55,7 @@
         color="#413C58"
         font-family="Roboto"
       >
-        Join the next Code & Beer for engaging talks, lively discussion and a
+        Join the next Code && Beer for engaging talks, lively discussion and a
         fun time with your coworkers!
       </mj-text>
     </mj-section>
@@ -108,54 +108,6 @@
     </mj-section>
     <!-- END SPEAKER INFO BLOB -->
 
-    <!-- BEGIN SPEAKER INFO BLOB -->
-    <mj-section padding="50px 0" text-align="right" background-color="white">
-      <mj-column padding-right="40px" width="425px" padding-bottom="10px">
-        <mj-text
-          color="#A3C4BC"
-          font-size="12px"
-          font-family="Roboto"
-          padding="0 0 10px 0"
-          align="right"
-        >
-          SPEAKER NAME | SPEAKER DEPARTMENT
-        </mj-text>
-        <mj-text
-          color="#413C58"
-          font-size="22px"
-          font-family="Roboto"
-          font-weight="600"
-          line-height="30px"
-          padding="0 0 5px 0"
-          align="right"
-        >
-          Why CSS Was Built to Make You Suffer.
-        </mj-text>
-        <mj-text
-          color="#413C58"
-          font-size="16px"
-          font-family="Roboto"
-          font-weight="400"
-          line-height="20px"
-          padding="0"
-          align="right"
-        >
-          We all know blah blah blah blah blah blah blah blah blah blah blah
-          blah blah blah blah blah. blah blah blah blah blah blah blah blah blah
-          blah blah blah.
-        </mj-text>
-      </mj-column>
-      <mj-column width="150px">
-        <mj-image
-          padding="0"
-          width="140px"
-          height="140px"
-          src="https://via.placeholder.com/140x140"
-        />
-      </mj-column>
-    </mj-section>
-    <!-- END SPEAKER INFO BLOB -->
-
     <!--START CFP SECTION -->
     <mj-wrapper background-color="#E7EFC5" padding="50px 40px">
       <mj-section padding="0 100px 0 0">
@@ -178,7 +130,7 @@
             font-family="Roboto"
             line-height="22px"
           >
-            Code & Beer is a great place to try out new talks and get great
+            Code && Beer is a great place to try out new talks and get great
             feedback in a safe, zero stress environment!
           </mj-text>
           <mj-button
@@ -189,7 +141,7 @@
             font-family="Roboto"
             border-radius="100px"
             inner-padding="15px 40px"
-            href="mailto:alex.white@insight.com"
+            href="https://forms.office.com/Pages/ResponsePage.aspx?id=EnVjbBfEeE6dYrYSWOS2GR5rKDwJLP1Kl9ic6Ng8YP9UOEU5RFE5MzZCQTgwWEk5UEoyNTk4RTdZQSQlQCN0PWcu"
             align="left"
             padding="0"
           >
